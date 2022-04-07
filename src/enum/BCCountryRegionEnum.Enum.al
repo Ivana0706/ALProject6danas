@@ -20,4 +20,5 @@ enum 50100 "BC Country/Region Enum"
     }
     //moja nova izmena kkom
     //moja druga izmena
+    //treca izmena
 }
