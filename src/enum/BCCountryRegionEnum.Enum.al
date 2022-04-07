@@ -19,4 +19,5 @@ enum 50100 "BC Country/Region Enum"
         Caption = 'Croatia';
     }
     //moja nova izmena kkom
+    //moja druga izmena
 }
